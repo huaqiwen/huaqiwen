@@ -29,7 +29,7 @@
 
 
 <p align="center">
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/huaqiwen">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=huaqiwen&theme=vue&show_icons=true&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huaqiwen&theme=vue&layout=compact" />
 </a>
