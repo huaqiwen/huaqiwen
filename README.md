@@ -26,15 +26,22 @@
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+  
+<h3> 📌 &nbsp;My Projects </h3>
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dove-lang&repo=dove)](https://github.com/dove-lang/dove)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dove-lang&repo=playground)](https://github.com/dove-lang/playground)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=huaqiwen&repo=drifty)](https://github.com/huaqiwen/drifty)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=huaqiwen&repo=sorting-visualizer)](https://github.com/huaqiwen/sorting-visualizer)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=huaqiwen&repo=connect5-js)](https://github.com/huaqiwen/connect5-js)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lynnqian&repo=trap-the-kitten)](https://github.com/lynnqian/trap-the-kitten)
 
-<p align="center">
+<h3> 📊 &nbsp;Github Stats </h3>
+
 <a href="https://github.com/huaqiwen">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=huaqiwen&theme=vue&show_icons=true&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huaqiwen&theme=vue&layout=compact" />
-</a>
-</p>
-
+</a>  
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
