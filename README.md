@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing softwares.
-- 🎓 &nbsp; Studying Computer Science and Data Science at University of Toronto.
+- 🎓 &nbsp; Studying Computer Science and Data Science at the University of Toronto.
 - 💼 &nbsp; Working as an intern iOS engineer at Flöka.
 - ✍️ &nbsp; Pursuing Artificial Intelligence, Computer Vision, and Web and Internet Technologies as my CS specialist focuses.
 
