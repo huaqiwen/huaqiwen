@@ -1,4 +1,5 @@
 <h2> Hi! I'm Eric.</h2>
+![](https://komarev.com/ghpvc/?username=huaqiwen)
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
