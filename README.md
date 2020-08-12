@@ -1,4 +1,5 @@
 <h2> Hi! I'm Eric.</h2>
+
 ![](https://komarev.com/ghpvc/?username=huaqiwen)
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
@@ -16,6 +17,7 @@
   ![Rust](https://img.shields.io/badge/-Rust-333333?style=flat&logo=rust) 
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java)
   ![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R)
+  
 - 🌐 &nbsp;
   ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
