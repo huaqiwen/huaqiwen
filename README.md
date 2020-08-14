@@ -39,12 +39,14 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=huaqiwen&repo=connect5-js)](https://github.com/huaqiwen/connect5-js)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lynnqian&repo=trap-the-kitten)](https://github.com/lynnqian/trap-the-kitten)
 
+<!--
 <h3> 📊 &nbsp;Github Stats </h3>
 
 <a href="https://github.com/huaqiwen">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=huaqiwen&theme=vue&show_icons=true&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huaqiwen&theme=vue&layout=compact" />
 </a>  
+-->
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
