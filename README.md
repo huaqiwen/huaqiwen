@@ -26,10 +26,10 @@
   ![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=vue.js)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=ecb3ff)
 - ⚙️ &nbsp;
+  ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=Amazon-AWS)
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
-  ![DynamoDB](https://img.shields.io/badge/-DynamoDB-333333?style=flat&logo=dynamodb)
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
   
 <h3> 📌 &nbsp;My Projects </h3>
