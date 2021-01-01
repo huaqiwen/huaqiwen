@@ -6,7 +6,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing softwares.
 - 🎓 &nbsp; Studying Computer Science and Data Science at the University of Toronto.
-- 💼 &nbsp; Working as an intern iOS engineer at Flöka.
+- 💼 &nbsp; Worked as an intern iOS engineer at Flöka.
 - ✍️ &nbsp; Pursuing Artificial Intelligence, Computer Vision, and Web and Internet Technologies as my CS specialist focuses.
 - ✨ &nbsp; Answering questions actively on [StackOverflow](https://stackoverflow.com/users/6472532/eric-hua).
 
