@@ -15,9 +15,10 @@
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) 
   ![Swift](https://img.shields.io/badge/-Swift-333333?style=flat&logo=swift) 
+  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=c%2B%2B&logoColor=71afd1) 
   ![Rust](https://img.shields.io/badge/-Rust-333333?style=flat&logo=rust) 
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java)
-  ![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R)
+  ![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=d3dce0)
 - 🌐 &nbsp;
   ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
