@@ -32,14 +32,14 @@
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
   
-<h3> 📌 &nbsp;My Projects </h3>
+<!-- <h3> 📌 &nbsp;My Projects </h3>
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dove-lang&repo=dove&show_owner=true)](https://github.com/dove-lang/dove)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dove-lang&repo=playground&show_owner=true)](https://github.com/dove-lang/playground)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=huaqiwen&repo=drifty)](https://github.com/huaqiwen/drifty)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=huaqiwen&repo=sorting-visualizer)](https://github.com/huaqiwen/sorting-visualizer)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=huaqiwen&repo=connect5-js)](https://github.com/huaqiwen/connect5-js)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lynnqian&repo=trap-the-kitten)](https://github.com/lynnqian/trap-the-kitten)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lynnqian&repo=trap-the-kitten)](https://github.com/lynnqian/trap-the-kitten) -->
 
 <!--
 <h3> 📊 &nbsp;Github Stats </h3>
