@@ -15,17 +15,18 @@
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) 
   ![Swift](https://img.shields.io/badge/-Swift-333333?style=flat&logo=swift) 
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=c%2B%2B&logoColor=71afd1) 
+  ![C/C++](https://img.shields.io/badge/-C/C++-333333?style=flat&logo=c%2B%2B&logoColor=71afd1) 
   ![Rust](https://img.shields.io/badge/-Rust-333333?style=flat&logo=rust) 
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java)
+  ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas&logoColor=d3dce0)
   ![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=d3dce0)
 - 🌐 &nbsp;
   ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript/TS](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=vue.js)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=ecb3ff)
 - ⚙️ &nbsp;
   ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=Amazon-AWS)
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
