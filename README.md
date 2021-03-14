@@ -18,7 +18,6 @@
   ![C/C++](https://img.shields.io/badge/-C/C++-333333?style=flat&logo=c%2B%2B&logoColor=71afd1) 
   ![Rust](https://img.shields.io/badge/-Rust-333333?style=flat&logo=rust) 
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java)
-  ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas&logoColor=d3dce0)
   ![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=d3dce0)
 - 🌐 &nbsp;
   ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
@@ -29,6 +28,8 @@
   ![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=vue.js)
 - ⚙️ &nbsp;
   ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=Amazon-AWS)
+  ![Spring](https://img.shields.io/badge/-Spring-333333?style=flat&logo=Spring)
+  ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas&logoColor=d3dce0)
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
