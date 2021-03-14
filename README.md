@@ -6,9 +6,9 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing softwares.
 - 🎓 &nbsp; Studying Computer Science and Data Science at the University of Toronto.
-- 💼 &nbsp; Worked as an intern iOS engineer at Flöka.
+- 💼 &nbsp; Back-end Software Engineer Intern at [Global IQX](https://www.globaliqx.com/).
 - ✍️ &nbsp; Pursuing Artificial Intelligence, Computer Vision, and Web and Internet Technologies as my CS specialist focuses.
-<!--- - ✨ &nbsp; Answering questions actively on [StackOverflow](https://stackoverflow.com/users/6472532/eric-hua). --->
+- ✨ &nbsp; Answering questions actively on [StackOverflow](https://stackoverflow.com/users/6472532/eric-hua).
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -58,6 +58,6 @@
 <p align="center">
 <a href="https://www.huaqiwen.com"><img src="https://img.shields.io/badge/-huaqiwen.com-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/erichua20010607"><img src="https://img.shields.io/badge/-Eric%20Hua-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<!--- <a href="https://stackoverflow.com/users/6472532/eric-hua?tab=profile"><img src="https://img.shields.io/badge/-Eric%20Hua-F48024?style=flat-square&logo=stackoverflow&logoColor=white"/></a> --->
+<a href="https://stackoverflow.com/users/6472532/eric-hua?tab=profile"><img src="https://img.shields.io/badge/-Eric%20Hua-F48024?style=flat-square&logo=stackoverflow&logoColor=white"/></a>
 <a href="mailto:qiwen.hua@mail.utoronto.ca"><img src="https://img.shields.io/badge/-qiwen.hua@mail.utoronto.ca-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
