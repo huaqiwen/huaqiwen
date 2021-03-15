@@ -15,9 +15,9 @@
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) 
   ![Swift](https://img.shields.io/badge/-Swift-333333?style=flat&logo=swift) 
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java)
   ![C/C++](https://img.shields.io/badge/-C/C++-333333?style=flat&logo=c%2B%2B&logoColor=71afd1) 
   ![Rust](https://img.shields.io/badge/-Rust-333333?style=flat&logo=rust) 
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java)
   ![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=d3dce0)
 - 🌐 &nbsp;
   ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
@@ -31,9 +31,7 @@
   ![Spring](https://img.shields.io/badge/-Spring-333333?style=flat&logo=Spring)
   ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas&logoColor=d3dce0)
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
   
 <!-- <h3> 📌 &nbsp;My Projects </h3>
 
