@@ -6,6 +6,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing softwares.
 - 🎓 &nbsp; Studying Computer Science and Data Science at the University of Toronto.
+- 🌐 &nbsp; AWS Certified Developer Associate ([Credentials](https://www.youracclaim.com/badges/6b41935e-15ae-4a20-8787-375293f22fa2)).
 - 💼 &nbsp; Back-end Software Engineer Intern at [Global IQX](https://www.globaliqx.com/).
 - ✍️ &nbsp; Pursuing Artificial Intelligence, Computer Vision, and Web and Internet Technologies as my CS specialist focuses.
 - ✨ &nbsp; Answering questions actively on [StackOverflow](https://stackoverflow.com/users/6472532/eric-hua).
