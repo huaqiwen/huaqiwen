@@ -28,11 +28,10 @@
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=vue.js)
 - ⚙️ &nbsp;
-  ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=Amazon-AWS)
   ![Spring](https://img.shields.io/badge/-Spring-333333?style=flat&logo=Spring)
+  ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=Amazon-AWS)
   ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas&logoColor=d3dce0)
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
   
 <!-- <h3> 📌 &nbsp;My Projects </h3>
 
