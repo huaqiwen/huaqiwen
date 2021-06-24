@@ -17,6 +17,7 @@
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) 
   ![Swift](https://img.shields.io/badge/-Swift-333333?style=flat&logo=swift) 
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java)
+  ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=mysql&logoColor=d3dce0)
   ![C/C++](https://img.shields.io/badge/-C/C++-333333?style=flat&logo=c%2B%2B&logoColor=71afd1) 
   ![Rust](https://img.shields.io/badge/-Rust-333333?style=flat&logo=rust) 
   ![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=d3dce0)
@@ -30,6 +31,7 @@
 - ⚙️ &nbsp;
   ![Spring](https://img.shields.io/badge/-Spring-333333?style=flat&logo=Spring)
   ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=Amazon-AWS)
+  ![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=Microsoft-Azure)
   ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas&logoColor=d3dce0)
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   
